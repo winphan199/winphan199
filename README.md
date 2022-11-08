@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is ✨ **Hung Phan**✨
+My name is ✨ **Hung Phan** ✨
 
 - 🔭 I’m currently working on web development but mostly focusing on Frontend.
 - 🌱 I’m currently learning in TAMK for bachelor's degree of Software Engineering.

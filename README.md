@@ -5,7 +5,7 @@ My name is ✨ **Hung Phan** ✨
 - 🌱 TAMK's Graduated Software Engineering student (4,7/5).
 - ⚡ Fun fact: Obsessed with enhancing UX, annoyed with imperfection.
 - ⚡ My goal is to become a Fullstack Developer.
-- Familiar with: NextJS, TypeScript.
+- Familiar with: NextJS, TypeScript, Supabase.
 - Love to explore new technologies and integrate it asap.
 
 <!--
